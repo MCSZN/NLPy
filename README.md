@@ -1,6 +1,3 @@
 # NLP
 
-TODO
-<li>Classification</li>
-<li>Seq2seq</li>
-<li>Multilingual</li>
+This repo is for Natural Language Processing. I put related open work here.
